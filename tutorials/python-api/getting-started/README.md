@@ -9,6 +9,7 @@ Install the `kathara` package:
 ```bash
 python3 -m pip install kathara
 ```
+A complete guide can be found [here](https://github.com/KatharaFramework/Kathara/wiki/pip).
 
 ## Getting Started
 
